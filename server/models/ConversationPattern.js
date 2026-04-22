@@ -1,0 +1,1 @@
+// ConversationPattern.js content goes here
